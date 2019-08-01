@@ -18,7 +18,7 @@ class ProjectsPage extends React.Component {
     super(props, context);
 
     this.state = {
-      projectList: this.props.projects,
+      projectList: sortProjects(this.props.projects, 'created-des'),
       tagSearchValue: [],
       sortValue: 'created-des'
     };
