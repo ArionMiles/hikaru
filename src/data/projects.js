@@ -33,22 +33,6 @@ export default [
     "photo": "project_1kdNbfh.png"
   },
   {
-    "id": 3,
-    "name": "Facemask",
-    "description": "A webapp to keep track of how many animals dumptyd has seen each day.",
-    "sourceLink": "https://github.com/dumptyd/facemask/",
-    "websiteLink": "https://dumptyd.github.io/facemask/",
-    "author": "dumptyd",
-    "authorLink": "https://github.com/dumptyd/",
-    "creator": "dummy",
-    "tags": [
-      "tracker",
-      "graph",
-      "data"
-    ],
-    "photo": null
-  },
-  {
     "id": 4,
     "name": "spotify-dl",
     "description": "Downloads songs from any Spotify playlist or from your 'My Music' collection.",
