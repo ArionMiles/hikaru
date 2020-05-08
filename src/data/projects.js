@@ -541,19 +541,5 @@ export default [
 		"creator": "Paresh Chouhan",
 		"tags": ['drawing', 'wiki'],
 		"photo": 'learntodraw.wiki.png'
-	},
-  {
-    "id": 38,
-    "name": "fractal-demo",
-    "description": "A Mandelbrot fractal image generator",
-    "sourceLink": "https://github.com/cha-ku/fractal-demo",
-    "websiteLink": "https://cha-ku.github.io/2020-05-01-mandelbrot/",
-    "author": "chaku",
-    "authorLink": "https://cha-ku.github.io/",
-    "creator": "chaku",
-    "tags": [
-      "cpp"
-    ],
-    "photo": "mandelbrot.bmp"
-   }
+	}
 ];
