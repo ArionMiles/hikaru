@@ -554,6 +554,6 @@ export default [
     "tags": [
       "cpp"
     ],
-    "photo": "mandelbrot.bmp"
+    "photo": "mandelbrot.png"
    }
 ];
